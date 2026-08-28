@@ -1,12 +1,12 @@
 export default function Profile(){
     return(
         <img 
-        scr=""
-        alt=""
+        src="./silasfoto.jpg"
+        alt="Foto de Silas Freitas"
         style={{
             width:'400px',
             height:'400px',
-            marginBotton:'20px',
+            marginBottom:'20px',
             borderRadius:'50%',
             objectFit:'cover'
         }}
